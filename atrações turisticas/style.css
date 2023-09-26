@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: cornflowerblue;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #ffeaea;
+    text-align: center;
+    padding: 20px;
+  }
+
+  nav {
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+
+p {
+    padding: 5px;
+    line-height: 1.5;
+    font-size:large;
+}
+
+section.atra {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fffaef;
+    border: 1px solid #000000;
+    border-radius: 5px;
+  }
+
+.dubai {
+    width: 300px; 
+    height: auto; 
+}
+
+.abu {
+    width: 300px; 
+    height: auto; 
+}
+
+.desert {
+    width: 300px; 
+    height: auto;
+}
+
+.burj {
+    width: 300px; 
+    height: auto;
+}
